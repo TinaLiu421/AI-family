@@ -16,4 +16,6 @@ We designed two core components: the SceneSelector and the TopicSelector. Throug
 <img width="1599" height="1129" alt="屏幕截图 2025-04-18 191718" src="https://github.com/user-attachments/assets/fe32d00b-bc83-4818-b7ed-7ff6812b1b77" />
 <img width="1602" height="1128" alt="屏幕截图 2025-04-18 191734" src="https://github.com/user-attachments/assets/43825688-9418-46e1-b68b-5ef1c9179c3b" />
 
+# Multilingual model training
+![fa83f765865fd0366834a84f3f0a10e6](https://github.com/user-attachments/assets/9bae6ade-01a7-49b2-b270-1657f9e54529)
 
